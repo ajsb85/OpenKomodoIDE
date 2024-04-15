@@ -1,7 +1,7 @@
 from setuptools import setup
 
 install_requires = [
-    'Flask==0.6.1',
+    'Flask==2.2.5',
     'Flask-Script==0.3.1',
     'redis>=2.0.0',
 ]
